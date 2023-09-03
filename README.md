@@ -20,10 +20,10 @@
 
 <ol>
   <li>Install the required libraries using the commands provided above.</li>
-  <li>Save the Python script to a file, e.g., <code>subdomain_checker.py</code>.</li>
+  <li>Save the Python script to a file, e.g., <code>subcheck.py</code>.</li>
   <li>Prepare a text file (e.g., <code>subdomains.txt</code>) with a list of subdomains, one subdomain per line, to be checked.</li>
   <li>Open your terminal or command prompt.</li>
-  <li>Navigate to the directory where the <code>subdomain_checker.py</code> script and <code>subdomains.txt</code> file are located.</li>
+  <li>Navigate to the directory where the <code>subcheck.py</code> script and <code>subdomains.txt</code> file are located.</li>
   <li>Run the script by executing the following command:</li>
 </ol>
 
