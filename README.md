@@ -27,7 +27,7 @@
   <li>Run the script by executing the following command:</li>
 </ol>
 
-<pre><code>python subdomain_checker.py</code></pre>
+<pre><code>python subcheck.py</code></pre>
 
 <p>Follow the on-screen prompts to enter the domain to be checked (e.g., example.com) and the path to the subdomains text file (e.g., subdomains.txt).</p>
 
